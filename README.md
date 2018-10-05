@@ -1,2 +1,2 @@
 # Laser-Defender
-Laser defense game made in Unity using C#. Enemies will keep spawning until you die so you can see how long you last.
+![laserdefender](https://user-images.githubusercontent.com/22461718/46555253-b3bb5c80-c8b0-11e8-8142-ebeb605d8c7a.PNG)
